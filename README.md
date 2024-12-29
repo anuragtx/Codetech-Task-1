@@ -13,6 +13,7 @@ Project: Interactive JavaScript Quiz Application
 ## Objective
 
 The objective of this project is to create an interactive quiz application using HTML, CSS, and JavaScript. The app presents users with multiple-choice questions about JavaScript programming, tracks their scores, and provides immediate feedback on their answers through a clean and intuitive user interface.
+![Screenshot of My Project](task1.2.png)
 
 ## Key Features
 
@@ -22,6 +23,8 @@ The objective of this project is to create an interactive quiz application using
 - Answer Validation: Immediate feedback on correct and incorrect answers with visual indicators
 - Progress Management: "Next" button appears only after answering current question
 - Quiz Reset: Option to replay the quiz after completion
+  ![Screenshot of My Project](task1.3.png)
+
 
 ## Technologies Used
 
